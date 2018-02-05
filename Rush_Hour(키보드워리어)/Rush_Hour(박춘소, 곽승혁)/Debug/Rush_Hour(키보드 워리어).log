@@ -1,0 +1,28 @@
+﻿
+빌드 시작: 2016-06-08 오후 8:00:04
+     1>2 노드의 "C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Rush_Hour(박춘소, 곽승혁)\Rush_Hour(박춘소, 곽승혁).vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Control.cpp Main.cpp MapView.cpp Model.cpp
+         Model.cpp
+         Control.cpp
+         코드를 생성하고 있습니다...
+     1>c:\users\chunso\documents\카카오톡 받은 파일\박춘소 rush_hour new (2)\rush_hour(박춘소, 곽승혁)\rush_hour(박춘소, 곽승혁)\control.cpp(103): warning C4715: 'Control::EXIT' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>c:\users\chunso\documents\카카오톡 받은 파일\박춘소 rush_hour new (2)\rush_hour(박춘소, 곽승혁)\rush_hour(박춘소, 곽승혁)\control.cpp(240): warning C4715: 'Control::End_Block' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>c:\users\chunso\documents\카카오톡 받은 파일\박춘소 rush_hour new (2)\rush_hour(박춘소, 곽승혁)\rush_hour(박춘소, 곽승혁)\control.cpp(404): warning C4715: 'Control::Find_x' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>c:\users\chunso\documents\카카오톡 받은 파일\박춘소 rush_hour new (2)\rush_hour(박춘소, 곽승혁)\rush_hour(박춘소, 곽승혁)\control.cpp(416): warning C4715: 'Control::Find_y' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         MapView.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Debug\Rush_Hour(박춘소, 곽승혁).exe" /INCREMENTAL /NOLOGO consola.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Debug\Rush_Hour(박춘소, 곽승혁).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Debug\Rush_Hour(박춘소, 곽승혁).lib" /MACHINE:X86 Debug\Control.obj
+         Debug\Main.obj
+         Debug\Model.obj
+         Debug\Preview.obj
+         Debug\Stage.obj
+         Debug\MapView.obj
+         Rush_Hour(박춘소, 곽승혁).vcxproj -> C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Debug\Rush_Hour(박춘소, 곽승혁).exe
+     1>"C:\Users\ChunSo\Documents\카카오톡 받은 파일\박춘소 Rush_Hour NEW (2)\Rush_Hour(박춘소, 곽승혁)\Rush_Hour(박춘소, 곽승혁)\Rush_Hour(박춘소, 곽승혁).vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.45
